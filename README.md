@@ -1,5 +1,7 @@
 # Pxblog
 
+followed this https://medium.com/@diamondgfx/introduction-fe138ac6079d#.rv17bt1nu
+
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
